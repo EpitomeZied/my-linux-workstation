@@ -1,0 +1,7 @@
+com.getpostman.Postman
+com.github.ahrm.sioyek
+com.rtosta.zapzap
+md.obsidian.Obsidian
+org.gnome.Extensions
+org.gustavoperedo.FontDownloader
+org.telegram.desktop

@@ -1,0 +1,60 @@
+macos-titlebar-style = hidden
+# Everforest dark medium, based on https://github.com/sainnhe/everforest.
+background = #232a2e
+foreground = #d3c6aa
+cursor-color = #d3c6aa
+selection-background = #4d4c43
+selection-foreground = #d3c6aa
+background-opacity = 0.8
+palette = 0=#343f44
+palette = 1=#e67e80
+palette = 2=#a7c080
+palette = 3=#dbbc7f
+palette = 4=#7fbbb3
+palette = 5=#d699b6
+palette = 6=#83c092
+palette = 7=#d3c6aa
+palette = 8=#859289
+palette = 9=#e67e80
+palette = 10=#a7c080
+palette = 11=#dbbc7f
+palette = 12=#7fbbb3
+palette = 13=#d699b6
+palette = 14=#83c092
+palette = 15=#d3c6aa
+font-family = Geist Mono
+font-size = 8
+
+keybind = super+1=text:\x00\x31
+keybind = super+2=text:\x00\x32
+keybind = super+3=text:\x00\x33
+keybind = super+4=text:\x00\x34
+keybind = super+5=text:\x00\x35
+keybind = super+6=text:\x00\x36
+keybind = super+7=text:\x00\x37
+keybind = super+8=text:\x00\x38
+
+keybind = super+digit_1=text:\x00\x31
+keybind = super+digit_2=text:\x00\x32
+keybind = super+digit_3=text:\x00\x33
+keybind = super+digit_4=text:\x00\x34
+keybind = super+digit_5=text:\x00\x35
+keybind = super+digit_6=text:\x00\x36
+keybind = super+digit_7=text:\x00\x37
+keybind = super+digit_8=text:\x00\x38
+
+keybind = super+t=text:\x00\x63
+keybind = super+b=text:\x00\x62
+keybind = super+w=text:\x00\x78
+keybind = super+f=text:\x00\x66
+keybind = super+o=text:\x00\x4f
+keybind = super+p=text:\x00\x70
+keybind = super+y=text:\x00\x79
+keybind = super+g=text:\x00\x47
+keybind = super+k=unbind
+keybind = super+k=text:\x00\x6b
+keybind = super+s=unbind
+keybind = super+s=text:\x00\x73
+keybind = super+l=text:\x00\x4c
+keybind = super+d=text:\x00\x44
+keybind = super+m=text:\x00\x6d
